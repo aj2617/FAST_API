@@ -1,0 +1,62 @@
+{
+  "P001": {
+    "name": "John Doe",
+    "age": 30,
+    "height": 1.78,
+    "weight": 85.0,
+    "bmi": 26.8,
+    "gender": "male",
+    "blood_group": "O+",
+    "diagnosis": "Hypertension"
+  },
+  "P002": {
+    "name": "Jane Smith",
+    "age": 26,
+    "height": 1.65,
+    "weight": 58.0,
+    "bmi": 21.3,
+    "gender": "female",
+    "blood_group": "A+",
+    "diagnosis": "Asthma"
+  },
+  "P003": {
+    "name": "Rahim Ahmed",
+    "age": 45,
+    "height": 1.7,
+    "weight": 82.0,
+    "bmi": 28.4,
+    "gender": "male",
+    "blood_group": "B+",
+    "diagnosis": "Type 2 diabetes"
+  },
+  "P004": {
+    "name": "Fatima Begum",
+    "age": 38,
+    "height": 1.58,
+    "weight": 60.0,
+    "bmi": 24.0,
+    "gender": "female",
+    "blood_group": "AB+",
+    "diagnosis": "Migraine"
+  },
+  "P005": {
+    "name": "Karim Hasan",
+    "age": 52,
+    "height": 1.73,
+    "weight": 79.0,
+    "bmi": 26.4,
+    "gender": "male",
+    "blood_group": "O-",
+    "diagnosis": "Arthritis"
+  },
+  "P006": {
+    "name": "Shihab",
+    "age": 23,
+    "height": 1.72,
+    "weight": 59.0,
+    "gender": "male",
+    "blood_group": "B+",
+    "diagnosis": "NOthing",
+    "bmi": 20
+  }
+}
